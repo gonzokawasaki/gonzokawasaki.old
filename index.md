@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+This is just another random blog about STEM
 
-Maybe say a some things about yourself.
+and education. I am a STEM teacher in a secondary
 
-Or maybe what you plan to blog about.
+and enjoy messing around with technology in the
+
+class with my students. This blog details some of
+
+that as well as some other random things.

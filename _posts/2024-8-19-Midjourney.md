@@ -1,1 +1,1 @@
-![Alt text](https://cdn.midjourney.com/354144a2-e5d1-49ec-9150-82cec271e0c2/0_3.png)
+![Alt text](https://cdn.midjourney.com/4b95532f-e3f5-46e1-b842-28076c7f55e3/0_2.png)

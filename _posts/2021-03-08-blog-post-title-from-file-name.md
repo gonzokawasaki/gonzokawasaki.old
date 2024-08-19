@@ -31,7 +31,3 @@ ForEach ($thing in $things) {
 }
 ```
 
-## Testing...................
-
-How's it going?
-

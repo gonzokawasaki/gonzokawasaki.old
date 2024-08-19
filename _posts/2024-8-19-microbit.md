@@ -8,3 +8,4 @@ How's it going?
  FROM sys.tables
  WHERE [name] = 'SomeTable'
  ```
+

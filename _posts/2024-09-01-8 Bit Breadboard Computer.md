@@ -4,4 +4,4 @@ Perhaps this isn't so extra ordinary as the early pioneers in micro computing su
 
 This is a fully functional 8-bit computer built with wires and breadboard.
 
-[![Watch the video](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+![Watch the video](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)

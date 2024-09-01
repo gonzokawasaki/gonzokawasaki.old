@@ -6,4 +6,4 @@ Three js is pretty comparable to Openframeworks now and the power of most laptop
 
 I seem to have broken it!! So here is a link to a voxel array I did.
 
-[Link to voxel array codepen](https://codepen.io/gonzokawasaki/pen/rNwqOmg)
+https://codepen.io/gonzokawasaki/pen/rNwqOmg

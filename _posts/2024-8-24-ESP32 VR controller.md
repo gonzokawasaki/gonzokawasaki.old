@@ -9,3 +9,5 @@ The ESP32 has so far proved to be the best bet. It supports HID gamepad profiles
 For the motion input I bought a GY521. This very cheap module gives rotation data on X, Y and Z. Plus movement data on the same. This is exactly what the motion controllers for VR do plus joystick and button input.
 
 So far so good. Initial tests are pretty simple but eventually it needs to be assigned as a composite HID input device and the data fed into a VR environment. I am guessing this is going to be the tricky bit.
+
+![Alt Text](https://i.imgur.com/7kagkAy.jpeg)

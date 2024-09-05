@@ -1,4 +1,4 @@
-![Alt text](https://cdn.midjourney.com/11eaca66-e53c-4c87-8a46-f9bf1d32d893/0_2.png)
+![Alt text](https://cdn.midjourney.com/6db9dc0f-b079-49e8-a4c1-46bed06d89e5/0_3.png)
 
 This is just another random blog about STEM and education. I am a STEM teacher in a secondary
 

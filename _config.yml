@@ -18,8 +18,8 @@ description: "This is a random blog about STEM and STEM education." # This will 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "dinky"
-theme: jekyll-theme-dinky
+theme: "Architect"
+theme: jekyll-theme-architect
 rss: rss
 
 kramdown:
